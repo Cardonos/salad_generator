@@ -1,0 +1,6 @@
+leafy:,iceberg,arugula,spinach,field salad,lollo rosso, romaine, regular
+veggies:,tomato,cucumber,paprika,baked courgette,baked eggplant,olives,broccoli,onion,corn,carrot,fried mushroom
+protein:,chickpeas,smoked fried tofu,cheese,egg,beans,fried tofu,falafel
+carb:,bread,couscous,pasta,beans,chickpeas,lentils
+toppings:,croutons,nuts,(goat) cheese,fresh herbs,pomegranate seeds,seeds
+dressing:,caesar,vinaigrette
