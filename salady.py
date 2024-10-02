@@ -12,11 +12,13 @@ def select_ingredients_from_list(lists, count):
     if not count == 0:
         while _ < count:
             current_ingred = lists[random.randint(1, len(lists)-1)]
+            lists.pop(lists.index(current_ingred))
+            print(lists)
             if _ == count - 1:
                 ingred += ' ' + current_ingred
             else:
                 ingred += ' ' + current_ingred+','
-            _+=1
+            _ += 1
     return ingred
 
 
